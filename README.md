@@ -1,5 +1,7 @@
 ## Corrige AI: Seu Corretor Automático Inteligente em Qualquer Idioma
 
+<img src="logo.png" alt="Logo Corrige AI">
+
 **Com o Corrige AI, você pode:**
 
 * Corrigir textos no idioma da sua preferência.
