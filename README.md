@@ -1,6 +1,6 @@
 ## Corrige AI: Seu Corretor Automático Inteligente em Qualquer Idioma
 
-<img src="logo.png" alt="Logo Corrige AI">
+<img src="logo.png"  style="display: block; margin: 0 auto;" width="50%" height="50%" alt="Logo Corrige AI">
 
 **Com o Corrige AI, você pode:**
 
