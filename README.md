@@ -1,12 +1,12 @@
 # Corrige AI
 ### Seu Corretor Automático Inteligente em Qualquer Idioma
 
-<img src="logo.png" width="30%" style="display: block; margin: auto;" alt="Logo Corrige AI">
+<img src="logo.png" width="30%" alt="Logo Corrige AI">
 
 **Com o Corrige AI, você pode:**
 
 * Corrigir textos no idioma da sua preferência.
-* Adaptação ao tom formal ou informal.
+* Correção feita de acordo com a sua necessidade: adapte a sua correção para situações formais e informais.
 * Aprimorar sua comunicação escrita com clareza, precisão e fluência.
 * Economizar tempo e esforço com um revisor automático sempre disponível.
 * Aumentar sua produtividade e profissionalismo na criação de textos.
@@ -32,4 +32,11 @@
 * **Tecnologia Gemini avançada:** Utiliza o modelo de linguagem Gemini, conhecido por sua precisão e fluência na geração de texto em diversos idiomas.
 * **Desenvolvido com ferramentas do Google:** Combina ferramentas poderosas do Google para oferecer uma experiência robusta e confiável.
 
-#Projeto desenvolvido por Rayara Vitória Oliveira de Pinho, durante a imersão de IA
+
+
+
+
+*Projeto desenvolvido por Rayara Vitória Oliveira de Pinho, durante a imersão de IA da Alura e do Google*
+
+
+<img src = "imersao.webp" width = "50%" alt = "Logo Imersão IA">
